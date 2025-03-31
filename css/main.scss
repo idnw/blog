@@ -32,6 +32,13 @@ hr {
 code {
     background-color: #d8e7ff;
     color: #002b72;
+
+    border: 1px solid #002b72;  // 添加边框线
+    padding: 8px 12px;          // 内边距（上下 8px，左右 12px）
+    margin: 8px 0;              // 外边距（上下 8px，左右 0）
+    border-radius: 4px;         // 边框圆角
+    display: block;      // 保持行内特性但允许尺寸调整
+    white-space: pre-wrap;
 }
 
 // divs
