@@ -1,13 +1,13 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: skr Linux
+author: luhangyu
+subtitle: The life of a linux engineer
 
 url: "https://idnw.github.io"
 baseurl: "/parchment"
 
 footer_only_homepage: true
-footer_url: "https://github.com/rhl-bthr"
-footer_text: "Theme by rhl-bthr"
+footer_url: "https://github.com/idnw"
+footer_text: "skr Linux"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+   absolute-link: "https://github.com/idnw"
